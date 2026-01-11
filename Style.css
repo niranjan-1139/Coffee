@@ -10,7 +10,7 @@
 
 :root {
     /* Colors */
-    --white-color: #black;
+    --white-color: #fff;
     --dark-color: #252525;
     --primary-color: #3b141c;
     --secondary-color: #f3961c;
@@ -256,6 +256,7 @@ body.show-mobile-menu .navbar .nav-menu {
     margin-right: 0;
 }
 }
+
 
 
 
